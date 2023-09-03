@@ -9,6 +9,7 @@ import Foundation
 
 public struct MySDK {
     public static func doSomeWork() {
-        print("My SDK doSomeWork")
+        print("My SDK doSomeWork 1")
+        print("My SDK doSomeWork 2")
     }
 }
